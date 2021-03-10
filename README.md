@@ -1,8 +1,9 @@
-<p align="cneter">
+
 ### Hi there 👋
 ***
-### Development Stack
+### <p align="cneter"> Development Stack </p>
 #### Language
+<p align="cneter">
 <img src="https://img.shields.io/badge/C-035697?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-6295CB?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-9B72D3?style=flat-square&logo=CSharp&logoColor=white"/></a>
@@ -10,6 +11,7 @@
 <img src="https://img.shields.io/badge/Python-376D9B?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+</p>
 
 #### Front
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -27,7 +29,6 @@
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jowooseok)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 <!--
 **Jowooseok/Jowooseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
