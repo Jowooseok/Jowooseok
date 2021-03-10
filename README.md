@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Development Stack
+####Front
+<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+
+####Back
+<img src="https://img.shields.io/badge/Spring-6AAD3D?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jowooseok)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
