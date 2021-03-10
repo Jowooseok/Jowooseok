@@ -3,7 +3,7 @@
 ### Development Stack
 #### Front
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Next-FFFFFF?style=flat-square&logo=Next&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NextJS-FFFFFF?style=flat-square&logo=NextJS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-27B0EC?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
 #### Back
