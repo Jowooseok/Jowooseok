@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+***
 ### Development Stack
 #### Language
 <img src="https://img.shields.io/badge/C-035697?style=flat-square&logo=C&logoColor=white"/></a>
@@ -22,7 +22,7 @@
 #### DataBase
 <img src="https://img.shields.io/badge/Mongodb-7DBF61?style=flat-square&logo=Mongodb&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-DD8A00?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
+***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jowooseok)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
