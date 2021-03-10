@@ -2,12 +2,12 @@
 
 ### Development Stack
 #### Language
-<img src="https://img.shields.io/badge/Java-E4393E?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-376D9B?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-035697?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-6295CB?style=flat-square&logo=C++&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-9B72D3?style=flat-square&logo=C#&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C#-9B72D3?style=flat-square&logo=Csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-E4393E?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-376D9B?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 #### Front
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>
