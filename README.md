@@ -17,6 +17,7 @@
 #### Back
 <img src="https://img.shields.io/badge/Spring-6AAD3D?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA2B?style=flat-square&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
 
 #### DataBase
 <img src="https://img.shields.io/badge/Mongodb-7DBF61?style=flat-square&logo=Mongodb&logoColor=white"/></a>
