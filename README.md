@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### The pain that can't kill me only makes me stronger. :triumph:
 ***
 ### <p align="cneter"> Development Stack </p>
 #### Language
