@@ -4,7 +4,9 @@
 ### <center> Development Stack </center>
 #### Language
 
+<center>
 <img src="https://img.shields.io/badge/C-035697?style=flat-square&logo=C&logoColor=white"/></a>
+</center>
 <img src="https://img.shields.io/badge/C++-6295CB?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-9B72D3?style=flat-square&logo=CSharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-E4393E?style=flat-square&logo=Java&logoColor=white"/></a>
