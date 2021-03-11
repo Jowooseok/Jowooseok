@@ -1,7 +1,7 @@
 
 ### The pain that can't kill me only makes me stronger. :triumph:
 ***
-### <p align="cneter"> Development Stack </p>
+### <center> Development Stack </center>
 #### Language
 
 <img src="https://img.shields.io/badge/C-035697?style=flat-square&logo=C&logoColor=white"/></a>
